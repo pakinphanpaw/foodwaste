@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Sarabun-Bold.ttf",
+      "sha1": "8a5854cb1d43fe0caf68d4f82a62c3dfd4f5cb5a"
+    },
+    {
+      "path": "assets/fonts/Sarabun-BoldItalic.ttf",
+      "sha1": "f635a1b25ddba71a6fae5b97623fbfd93bd5cf48"
+    },
+    {
+      "path": "assets/fonts/Sarabun-ExtraBold.ttf",
+      "sha1": "ec2f451515dc5e56dcba3af842cf88a4583f8770"
+    },
+    {
+      "path": "assets/fonts/Sarabun-ExtraBoldItalic.ttf",
+      "sha1": "219ca0c9b467d266083357e2610c1571f423e2e5"
+    },
+    {
+      "path": "assets/fonts/Sarabun-ExtraLight.ttf",
+      "sha1": "65bdfba1bc5c1bfe798d158dfa9d97d8aa28b826"
+    },
+    {
+      "path": "assets/fonts/Sarabun-ExtraLightItalic.ttf",
+      "sha1": "d8bfab612f420f960d562b3757701c52463e3426"
+    },
+    {
+      "path": "assets/fonts/Sarabun-Italic.ttf",
+      "sha1": "f216de40f8b953423f68f5f4a3f9844dd8eeb6e7"
+    },
+    {
+      "path": "assets/fonts/Sarabun-Light.ttf",
+      "sha1": "49e7b35305be84b3de4cf02cadd9eebc21c8f681"
+    },
+    {
+      "path": "assets/fonts/Sarabun-LightItalic.ttf",
+      "sha1": "40c74ac70c87bdbcdcb52a35a193fcccefff0592"
+    },
+    {
+      "path": "assets/fonts/Sarabun-Medium.ttf",
+      "sha1": "39c5f343e03df2db76283f8b07125e15ffff0b75"
+    },
+    {
+      "path": "assets/fonts/Sarabun-MediumItalic.ttf",
+      "sha1": "5168122505be330d1e962c7c2f06c9b8ecb57ba5"
+    },
+    {
+      "path": "assets/fonts/Sarabun-Regular.ttf",
+      "sha1": "a9b65e36ee8224b459b9dcdb8bf55ef41b4ab867"
+    },
+    {
+      "path": "assets/fonts/Sarabun-SemiBold.ttf",
+      "sha1": "fa6c7f47da0dae54034d0b4eea541e48e615d2d5"
+    },
+    {
+      "path": "assets/fonts/Sarabun-SemiBoldItalic.ttf",
+      "sha1": "c0479735ec54e1f7cc912b77bf71fdb1f8eb73ec"
+    },
+    {
+      "path": "assets/fonts/Sarabun-Thin.ttf",
+      "sha1": "0cf7b61abecc53e70c6cdd97297ac9a7ad812cae"
+    },
+    {
+      "path": "assets/fonts/Sarabun-ThinItalic.ttf",
+      "sha1": "1ad02cbce54c0e043fcd227ef7bad319c4249097"
+    }
+  ]
+}
